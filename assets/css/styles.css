@@ -289,7 +289,7 @@ img {
 }
 
 .home_social-icon{
-  font-size: 1.25rem;
+  font-size: 3rem;
   color: var(--first-color);
 }
 
@@ -511,22 +511,20 @@ img {
   width: 70%;
 }
 .skills_react{
-  width: 80%;
+  width: 70%;
 }
 
 /*back end skill*/
 .skills_nodejs{
-  width: 70%;
+  width: 50%;
 }
 .skills_mongodb{
-  width: 80%;
+  width: 50%;
 }
 .skills_expressjs{
-  width: 70%;
+  width: 50%;
 }
-.skills_python{
-  width: 60%;
-}
+
 
 /*tool skill*/
 
